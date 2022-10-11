@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Polished Level.unity
+    guid: 546f1b931477ca148bcbc550867eb3dd
+  - enabled: 1
+    path: Assets/Scenes/PrototypeTesting.unity
+    guid: b37a7afc58e92a24aa903661118c1809
+  m_configObjects: {}
